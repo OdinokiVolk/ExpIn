@@ -5,7 +5,7 @@ import java.util.Date;
 
 public interface Vars {
     static final String baseURL = "http://expin.ossystem.ua/#login";
-    static final String username = "test-user-perms";
-    static final String password = "123456";
+    static final String username = "*****";
+    static final String password = "*****";
 
 }
